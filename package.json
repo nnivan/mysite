@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "my site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnivan/mysite.git"
+  },
+  "author": "Ivan Nikolov",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/nnivan/mysite/issues"
+  },
+  "homepage": "https://github.com/nnivan/mysite#readme"
+}
